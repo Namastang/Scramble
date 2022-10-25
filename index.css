@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://media4.giphy.com/media/smRtiUbtXVZtUSofR3/giphy.gif?cid=ecf05e470cbeo1bquzefo7g9frueg7i3n5ulplrsbp16njh0&rid=giphy.gif&ct=g");
+    background-size: cover;
+}
+h1{
+    color:white;
+    font-size: 40px;
+}
+p{
+    color:white;
+    font-size: 30px;
+}
+#canvas{
+    text-align: center;
+}
