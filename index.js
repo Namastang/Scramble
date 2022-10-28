@@ -3,9 +3,7 @@ const words = ["hippopotamus",
                  "puppies",
                  "orangutan",
                  "buffalo",
-                 "penguin",
-                 "colonel",
-                 "irregardless"
+                 "penguin"
                 ];
                 
 function randomWord(array) {
